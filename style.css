@@ -1,0 +1,120 @@
+
+
+* {
+  margin:0px;
+  padding:0px;
+  margin-bottom: 2em;
+}
+
+/* STYLE SECTIONING TAGS */
+body {
+ font-family: 'Courier New', Courier, monospace;
+ text-align: center;
+ color: black;
+ background-color: #F0EFEB; 
+ font-size: 1em;
+}
+
+main {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+/* STYLE TEXT */
+
+h2 {
+font-size: 2em;
+color: #DDBEA9;
+margin-top: 2em;
+margin-bottom: .5em;
+padding-top: 4px;
+padding-bottom: 4px;
+}
+
+.intro{
+  border-style: inset;
+  font-size: 1.3em;
+}
+
+.text {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+
+.mainHeading {
+  margin-top: 10px;
+}
+
+/* STYLE IMAGES */
+#me {
+  width:15em;
+  border-radius: 120%;
+}
+
+#img1 {
+  width: 41em;
+  height: 30em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left:20%;
+  margin-right: 20%;
+}
+
+#img2 {
+  width: 41em;
+  height: 30em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left:20%;
+  margin-right: 20%;
+}
+
+#resume {
+  width:20em;
+  height:26em;
+}
+
+#animo {
+  width:45%;
+  height:20%;
+}
+
+#animo1 {
+  width:30%;
+  height:15%;
+}
+
+#shoplist{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  height:30%;
+}
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #B7B7A4;
+  overflow: hidden;
+  padding: .5em;
+  margin-bottom: 2em;
+}
+
+li{
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.1em;
+  padding: 1em;
+}
+
+li a:hover{
+  background-color: #A5A58D;
+}
